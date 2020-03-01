@@ -1,26 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+//Board Grid
+const totalBoardRows = 40;
+const totalBoardColumns = 60;
+
+//Separate function and function components
+const newBoardStatus = () => {};
+const BoardGrid = () => {};
+const Slider = () => {};
+
+class App extends Component { //Class component holding the state and methods
+  state = {};
+
+  //Methods ...
+
+  render() {
+    return (
+
+    );
+  }
 }
 
 export default App;
