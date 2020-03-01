@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+/*export default function newBoardStatus() {
+
+}*/
 const newBoardStatus = (cellStatus = () => Math.random() < 0.3) => {
   const grid = [];
   for (let r = 0; r < totalBoardRows; r++) {
