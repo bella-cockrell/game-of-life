@@ -14,3 +14,9 @@ iteration. This is a function that returns an array of arrays each containing
 cells with boolean values. The number of arrays in the parent array will match
 the number of rows. Each child array will be the columns. Each boolean value
 will represent the state of each cell – dead or alive.
+(40) [Array(60), Array(60), ...]
+0: (60) [true, false, ...]
+1: (60) [true, true, ...]
+2: (60) [false, false, ...]
+...
+*/
