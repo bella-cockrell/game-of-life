@@ -1,10 +1,10 @@
 # Conway's Game of Life
 
-![game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#/media/File:Gospers_glider_gun.gif)
+![game of life](https://gph.is/1ses55H)
 
 Do you want to harness the powers of life and death? Do you see beauty in suffering? Do you think pretty flashing pixels are the best thing ever? **In this repro, you can combine all those loves/complexes with software development.**
 
-For this repro, I've followed a [FreeCodeCamp tutorial](https://www.freecodecamp.org/news/create-gameoflife-with-react-in-one-hour-8e686a410174/) on Conway's Game of Life.
+For this repro, I've followed a [FreeCodeCamp tutorial](https://www.freecodecamp.org/news/coding-the-game-of-life-with-react-7de2385b7356//) on Conway's Game of Life.
 
 Based on [John Horton Conway's game](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) of the same name, this is a zero-player game that abides by the following rules:
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
