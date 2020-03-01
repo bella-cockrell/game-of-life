@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![game of life](gol.gif)
+![game of life](./public/gol.gif)
 
 Do you want to harness the powers of life and death? Do you see beauty in suffering? Do you think pretty flashing pixels are the best thing ever? **In this repro, you can combine all those loves/complexes with software development.**
 
